@@ -1,0 +1,5 @@
+1. Proyecto creación de un Formulario de Contacot con HTML, CSS
+y JavaScript-
+2. El formulario debe tener validaciones en js
+3. Fomrulario debe estar estilizado y con un layout moderno
+
