@@ -18,3 +18,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
         alert('Por favor, completa todos los campos obligatorios.');
     }
 });
+
+
+    // Validación básica2
+    
